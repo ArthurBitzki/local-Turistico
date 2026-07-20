@@ -1,0 +1,105 @@
+*{
+    font-family: "Open Sans", sans-serif;
+}
+body{
+    background-color: #D9D9D9;
+}
+#containerPage{
+    width: 1120px;
+    background-color: #F5F4F0 ;
+    margin: 88px auto 137px;
+    box-sizing: border-box;
+    border: #000000b7 solid;
+}
+#cabecalhoID{
+    margin-bottom: 40px;
+}
+img{
+    border-radius: 20px;
+    width: 100%;
+    height: 660px;
+}
+#introducao{
+    margin: 64px 0px;
+}
+#h2Introducao{
+    margin: 0px;
+}
+#txtintroducao{
+    margin-top: 8px;
+}
+.tituloLugar{
+    margin-top: 20px;
+    margin-bottom: 4px;
+}
+.primario{
+    color: #1b1b1b;
+}
+.segundario{
+    color: #333333;
+}
+.fotos{
+    height: 350px;
+    object-fit: cover;
+}
+.final{
+    margin-bottom: 48px;
+}
+h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+h2{
+    font-size: 32px;
+    font-weight: bold;
+}
+h3{
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0px;
+}
+.headline{
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: bold; 
+    color: #e1624f;
+    text-transform: uppercase
+}
+p{
+    font-size: 16px;
+    margin: 0px;
+}
+ul{
+    margin: 0px 23px;
+    padding: 0px;
+}
+.hist{
+    color: rgba(12, 81, 167, 1);
+}
+.familias{
+    color: rgba(229, 36, 94, 1);
+}
+.casais{
+    color: rgba(89, 27, 152, 1);
+}
+.orcamento{
+    color: rgba(233, 94, 16, 1);
+}
+.subtitle{
+    font-size: 16px;
+    line-height: 22px;
+    font-style: italic; 
+    text-align: center;
+    color: #333333;
+    margin-top: 24px;
+}
+footer{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 0px;
+
+}
+#creditos{
+    text-align: center;
+    margin-bottom: 48px;
+}
